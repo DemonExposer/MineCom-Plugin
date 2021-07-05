@@ -7,11 +7,9 @@ import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
-	private FileConfiguration config;
-
 	@Override
 	public void onEnable() {
-		config = getConfig();
+		FileConfiguration config = getConfig();
 		/*
 		 * The next config values may be changed according to your Discord bot settings in config.yml after the plugin
 		 * has been run once

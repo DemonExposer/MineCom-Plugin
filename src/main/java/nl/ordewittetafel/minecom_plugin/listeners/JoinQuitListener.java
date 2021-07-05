@@ -12,6 +12,10 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 
+/**
+ * This class waits for a player to join or quit and then sends a message about it to the Discord bot connected to this
+ * plugin
+ */
 public class JoinQuitListener implements Listener {
 	private final JavaPlugin plugin;
 	private final FileConfiguration config;
