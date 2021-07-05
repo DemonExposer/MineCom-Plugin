@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MineCom-Plugin" target="1.8" />
+      <module name="MineCom-Plugin" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

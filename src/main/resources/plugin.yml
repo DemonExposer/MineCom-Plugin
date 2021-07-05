@@ -1,4 +1,4 @@
 name: MineCom-Plugin
-main: nl.ordewittetafel.minecom_plugin
+main: nl.ordewittetafel.minecom_plugin.Main
 version: 1.0
 author: Kelvin Bouma
