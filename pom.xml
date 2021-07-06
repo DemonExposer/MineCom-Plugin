@@ -6,7 +6,7 @@
 
     <groupId>nl.ordewittetafel</groupId>
     <artifactId>MineCom-Plugin</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -37,7 +37,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.8-R0.1-SNAPSHOT</version><!--change this value depending on the version-->
+            <version>1.8-R0.1-SNAPSHOT</version>
             <type>jar</type>
             <scope>provided</scope>
         </dependency>
